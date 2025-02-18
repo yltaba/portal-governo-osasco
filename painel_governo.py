@@ -12,44 +12,13 @@ data_path = Path().resolve().parent / "etl" / "data" / "processed"
 
 # Carregar os dados
 caged = pd.read_csv(
-    data_path / "caged.csv",
+    "data/caged_saldo_movimentacao_anual.csv",
     encoding="latin1",
-    sep=";",
-    dtype={
-        "ano": int,
-        "mes": int,
-        "sigla_uf": str,
-        "id_municipio": int,
-        "tipo_estabelecimento": int,
-        "tipo_movimentacao_desagregado": int,
-        "quantidade_horas_contratadas": int,
-        "salario_mensal": float,
-        "saldo_movimentacao": int,
-        "indicador_aprendiz": int,
-        "indicador_trabalho_intermitente": float,
-        "indicador_trabalho_parcial": float,
-        "tipo_deficiencia": float,
-        "cbo_2002": str,
-        "cbo_2002_descricao": str,
-        "cnae_2": str,
-        "grau_instrucao": int,
-        "idade": int,
-        "sexo": int,
-        "raca_cor": int,
-        "tamanho_estabelecimento": float,
-        "cnae_2_descricao_secao": str,
-        "sigla_uf_nome": str,
-        "id_municipio_nome": str,
-        "id_tabela": str,
-        "raca_cor_descricao": str,
-        "sexo_descricao": str,
-        "grau_instrucao_descricao": str,
-        "tipo_deficiencia_descricao": str,
-    },
+    sep=";"
 )
 
 rais = pd.read_csv(
-    data_path / "rais_estab.csv",
+    "data/rais_estab.csv",
     sep=";",
     dtype={
         "ano": int,
@@ -67,9 +36,7 @@ rais = pd.read_csv(
         "descricao_secao_cnae": str,
     },
 )
-rais_anual = rais.groupby("ano", as_index=False).agg(
-    {"quantidade_vinculos_ativos": "sum", "quantidade_vinculos_clt": "sum"}
-)
+
 
 # Criar lista de opções únicas para o dropdown
 opcoes_cnae = [
