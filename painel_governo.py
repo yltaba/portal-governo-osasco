@@ -137,6 +137,8 @@ def atualizar_grafico_rais_anual(filtro_cnae):
     return fig
 
 
+server = app.server
+
 # Executar o app
 if __name__ == "__main__":
     app.run_server(debug=True)
