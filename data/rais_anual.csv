@@ -1,40 +1,559 @@
-ano;quantidade_vinculos_ativos
-1985;104477
-1986;111514
-1987;112549
-1988;114860
-1989;99955
-1990;108167
-1991;98518
-1992;93902
-1993;92877
-1994;92663
-1995;90439
-1996;85113
-1997;87823
-1998;92690
-1999;95628
-2000;98046
-2001;101931
-2002;100235
-2003;101698
-2004;108289
-2005;118645
-2006;121260
-2007;133781
-2008;144723
-2009;149437
-2010;164973
-2011;172436
-2012;173848
-2013;175612
-2014;177201
-2015;169369
-2016;160186
-2017;155192
-2018;158529
-2019;158848
-2020;160459
-2021;182529
-2022;198454
-2023;215563
+ano;descricao_secao_cnae;quantidade_vinculos_ativos
+1994;Administração pública, defesa e seguridade social;10663
+1994;Agricultura, pecuária, silvicultura e exploração florestal;19
+1994;Alojamento e alimentação;2150
+1994;Atividades imobiliárias, aluguéis e serviços prestados às empresas;4272
+1994;"Comércio; reparação de veículos automotores, objetos pessoais e domésticos";14168
+1994;Construção;1436
+1994;Indústrias de transformação;25383
+1994;Indústrias extrativas;26
+1994;Intermediação financeira, seguros, previdência complementar e serviços relacionados;13948
+1994;Outros serviços coletivos, sociais e pessoais;4228
+1994;Produção e distribuição de eletricidade, gás e água;25
+1994;Saúde e serviços sociais;1902
+1994;Transporte, armazenagem e comunicações;8837
+1995;Administração pública, defesa e seguridade social;10373
+1995;Agricultura, pecuária, silvicultura e exploração florestal;25
+1995;Alojamento e alimentação;3625
+1995;Atividades imobiliárias, aluguéis e serviços prestados às empresas;5111
+1995;"Comércio; reparação de veículos automotores, objetos pessoais e domésticos";18037
+1995;Construção;1910
+1995;Indústrias de transformação;22985
+1995;Indústrias extrativas;0
+1995;Intermediação financeira, seguros, previdência complementar e serviços relacionados;12125
+1995;Outros serviços coletivos, sociais e pessoais;2002
+1995;Pesca;0
+1995;Produção e distribuição de eletricidade, gás e água;23
+1995;Saúde e serviços sociais;2174
+1995;Serviços domésticos;12
+1995;Transporte, armazenagem e comunicações;6785
+1996;Administração pública, defesa e seguridade social;13313
+1996;Agricultura, pecuária, silvicultura e exploração florestal;20
+1996;Alojamento e alimentação;2943
+1996;Atividades imobiliárias, aluguéis e serviços prestados às empresas;5207
+1996;"Comércio; reparação de veículos automotores, objetos pessoais e domésticos";18963
+1996;Construção;1305
+1996;Indústrias de transformação;21767
+1996;Indústrias extrativas;0
+1996;Intermediação financeira, seguros, previdência complementar e serviços relacionados;2022
+1996;Organismos internacionais e outras instituições extraterritoriais;0
+1996;Outros serviços coletivos, sociais e pessoais;5041
+1996;Produção e distribuição de eletricidade, gás e água;13
+1996;Saúde e serviços sociais;2662
+1996;Serviços domésticos;7
+1996;Transporte, armazenagem e comunicações;7129
+1997;Administração pública, defesa e seguridade social;10410
+1997;Agricultura, pecuária, silvicultura e exploração florestal;14
+1997;Alojamento e alimentação;3254
+1997;Atividades imobiliárias, aluguéis e serviços prestados às empresas;5464
+1997;"Comércio; reparação de veículos automotores, objetos pessoais e domésticos";17454
+1997;Construção;1375
+1997;Indústrias de transformação;18791
+1997;Indústrias extrativas;0
+1997;Intermediação financeira, seguros, previdência complementar e serviços relacionados;10160
+1997;Organismos internacionais e outras instituições extraterritoriais;4
+1997;Outros serviços coletivos, sociais e pessoais;5515
+1997;Pesca;0
+1997;Produção e distribuição de eletricidade, gás e água;15
+1997;Saúde e serviços sociais;2292
+1997;Transporte, armazenagem e comunicações;8177
+1998;Administração pública, defesa e seguridade social;11047
+1998;Agricultura, pecuária, silvicultura e exploração florestal;8
+1998;Alojamento e alimentação;4338
+1998;Atividades imobiliárias, aluguéis e serviços prestados às empresas;5936
+1998;"Comércio; reparação de veículos automotores, objetos pessoais e domésticos";17857
+1998;Construção;1676
+1998;Indústrias de transformação;18417
+1998;Indústrias extrativas;0
+1998;Intermediação financeira, seguros, previdência complementar e serviços relacionados;12502
+1998;Organismos internacionais e outras instituições extraterritoriais;2
+1998;Outros serviços coletivos, sociais e pessoais;4846
+1998;Pesca;0
+1998;Produção e distribuição de eletricidade, gás e água;15
+1998;Saúde e serviços sociais;2487
+1998;Serviços domésticos;0
+1998;Transporte, armazenagem e comunicações;8292
+1999;Administração pública, defesa e seguridade social;11315
+1999;Agricultura, pecuária, silvicultura e exploração florestal;6
+1999;Alojamento e alimentação;4775
+1999;Atividades imobiliárias, aluguéis e serviços prestados às empresas;7000
+1999;"Comércio; reparação de veículos automotores, objetos pessoais e domésticos";20013
+1999;Construção;1962
+1999;Indústrias de transformação;19029
+1999;Indústrias extrativas;0
+1999;Intermediação financeira, seguros, previdência complementar e serviços relacionados;12404
+1999;Organismos internacionais e outras instituições extraterritoriais;0
+1999;Outros serviços coletivos, sociais e pessoais;4337
+1999;Pesca;1
+1999;Produção e distribuição de eletricidade, gás e água;39
+1999;Saúde e serviços sociais;1950
+1999;Serviços domésticos;2
+1999;Transporte, armazenagem e comunicações;8141
+2000;Administração pública, defesa e seguridade social;10498
+2000;Agricultura, pecuária, silvicultura e exploração florestal;31
+2000;Alojamento e alimentação;3418
+2000;Atividades imobiliárias, aluguéis e serviços prestados às empresas;7325
+2000;"Comércio; reparação de veículos automotores, objetos pessoais e domésticos";21775
+2000;Construção;1869
+2000;Indústrias de transformação;20007
+2000;Indústrias extrativas;0
+2000;Intermediação financeira, seguros, previdência complementar e serviços relacionados;11081
+2000;Organismos internacionais e outras instituições extraterritoriais;1
+2000;Outros serviços coletivos, sociais e pessoais;4684
+2000;Pesca;0
+2000;Produção e distribuição de eletricidade, gás e água;153
+2000;Saúde e serviços sociais;2220
+2000;Serviços domésticos;2
+2000;Transporte, armazenagem e comunicações;10068
+2001;Administração pública, defesa e seguridade social;11700
+2001;Agricultura, pecuária, silvicultura e exploração florestal;8
+2001;Alojamento e alimentação;6142
+2001;Atividades imobiliárias, aluguéis e serviços prestados às empresas;5809
+2001;"Comércio; reparação de veículos automotores, objetos pessoais e domésticos";22323
+2001;Construção;1865
+2001;Indústrias de transformação;18843
+2001;Indústrias extrativas;0
+2001;Intermediação financeira, seguros, previdência complementar e serviços relacionados;9828
+2001;Organismos internacionais e outras instituições extraterritoriais;0
+2001;Outros serviços coletivos, sociais e pessoais;5393
+2001;Pesca;0
+2001;Produção e distribuição de eletricidade, gás e água;623
+2001;Saúde e serviços sociais;2144
+2001;Serviços domésticos;5
+2001;Transporte, armazenagem e comunicações;11003
+2002;Administração pública, defesa e seguridade social;11763
+2002;Agricultura, pecuária, silvicultura e exploração florestal;4
+2002;Alojamento e alimentação;7760
+2002;Atividades imobiliárias, aluguéis e serviços prestados às empresas;6136
+2002;"Comércio; reparação de veículos automotores, objetos pessoais e domésticos";21466
+2002;Construção;1446
+2002;Educação;3468
+2002;Indústrias de transformação;19692
+2002;Indústrias extrativas;21
+2002;Intermediação financeira, seguros, previdência complementar e serviços relacionados;11311
+2002;Organismos internacionais e outras instituições extraterritoriais;0
+2002;Outros serviços coletivos, sociais e pessoais;4701
+2002;Pesca;0
+2002;Produção e distribuição de eletricidade, gás e água;208
+2002;Saúde e serviços sociais;1917
+2002;Serviços domésticos;4
+2002;Transporte, armazenagem e comunicações;10338
+2003;Administração pública, defesa e seguridade social;12987
+2003;Agricultura, pecuária, silvicultura e exploração florestal;37
+2003;Alojamento e alimentação;5793
+2003;Atividades imobiliárias, aluguéis e serviços prestados às empresas;6940
+2003;"Comércio; reparação de veículos automotores, objetos pessoais e domésticos";22660
+2003;Construção;1391
+2003;Educação;3555
+2003;Indústrias de transformação;18945
+2003;Indústrias extrativas;16
+2003;Intermediação financeira, seguros, previdência complementar e serviços relacionados;12432
+2003;Organismos internacionais e outras instituições extraterritoriais;0
+2003;Outros serviços coletivos, sociais e pessoais;4231
+2003;Pesca;0
+2003;Produção e distribuição de eletricidade, gás e água;243
+2003;Saúde e serviços sociais;1985
+2003;Serviços domésticos;7
+2003;Transporte, armazenagem e comunicações;10476
+2004;Administração pública, defesa e seguridade social;12083
+2004;Agricultura, pecuária, silvicultura e exploração florestal;232
+2004;Alojamento e alimentação;6546
+2004;Atividades imobiliárias, aluguéis e serviços prestados às empresas;7966
+2004;"Comércio; reparação de veículos automotores, objetos pessoais e domésticos";24007
+2004;Construção;1725
+2004;Educação;3735
+2004;Indústrias de transformação;21909
+2004;Indústrias extrativas;13
+2004;Intermediação financeira, seguros, previdência complementar e serviços relacionados;12972
+2004;Organismos internacionais e outras instituições extraterritoriais;0
+2004;Outros serviços coletivos, sociais e pessoais;4200
+2004;Pesca;0
+2004;Produção e distribuição de eletricidade, gás e água;212
+2004;Saúde e serviços sociais;1968
+2004;Serviços domésticos;5
+2004;Transporte, armazenagem e comunicações;10716
+2005;Administração pública, defesa e seguridade social;15701
+2005;Agricultura, pecuária, silvicultura e exploração florestal;233
+2005;Alojamento e alimentação;7902
+2005;Atividades imobiliárias, aluguéis e serviços prestados às empresas;8819
+2005;"Comércio; reparação de veículos automotores, objetos pessoais e domésticos";25268
+2005;Construção;2663
+2005;Educação;3759
+2005;Indústrias de transformação;22927
+2005;Indústrias extrativas;11
+2005;Intermediação financeira, seguros, previdência complementar e serviços relacionados;13210
+2005;Organismos internacionais e outras instituições extraterritoriais;0
+2005;Outros serviços coletivos, sociais e pessoais;4393
+2005;Pesca;0
+2005;Produção e distribuição de eletricidade, gás e água;199
+2005;Saúde e serviços sociais;2465
+2005;Serviços domésticos;0
+2005;Transporte, armazenagem e comunicações;11095
+2006;Administração Pública, Defesa E Seguridade Social;13162
+2006;Agricultura, Pecuária, Produção Florestal, Pesca E Aquicultura;228
+2006;Alojamento E Alimentação;8575
+2006;Artes, Cultura, Esporte E Recreação;305
+2006;Atividades Administrativas E Serviços Complementares;7454
+2006;Atividades Financeiras, De Seguros E Serviços Relacionados;12592
+2006;Atividades Imobiliárias;306
+2006;Atividades Profissionais, Científicas E Técnicas;1636
+2006;"Comércio; Reparação De Veículos Automotores E Motocicletas";28625
+2006;Construção;3008
+2006;Educação;4540
+2006;Eletricidade E Gás;0
+2006;Indústrias De Transformação;22267
+2006;Indústrias Extrativas;95
+2006;Informação E Comunicação;3401
+2006;Organismos Internacionais E Outras Instituições Extraterritoriais;9
+2006;Outras Atividades De Serviços;2226
+2006;Saúde Humana E Serviços Sociais;2722
+2006;Serviços Domésticos;10
+2006;Transporte, Armazenagem E Correio;9543
+2006;Água, Esgoto, Atividades De Gestão De Resíduos E Descontaminação;556
+2007;Administração Pública, Defesa E Seguridade Social;16769
+2007;Agricultura, Pecuária, Produção Florestal, Pesca E Aquicultura;17
+2007;Alojamento E Alimentação;8857
+2007;Artes, Cultura, Esporte E Recreação;218
+2007;Atividades Administrativas E Serviços Complementares;9347
+2007;Atividades Financeiras, De Seguros E Serviços Relacionados;12886
+2007;Atividades Imobiliárias;329
+2007;Atividades Profissionais, Científicas E Técnicas;1139
+2007;"Comércio; Reparação De Veículos Automotores E Motocicletas";33118
+2007;Construção;3640
+2007;Educação;4629
+2007;Eletricidade E Gás;2
+2007;Indústrias De Transformação;23031
+2007;Indústrias Extrativas;0
+2007;Informação E Comunicação;4394
+2007;Outras Atividades De Serviços;2313
+2007;Saúde Humana E Serviços Sociais;2565
+2007;Serviços Domésticos;11
+2007;Transporte, Armazenagem E Correio;9931
+2007;Água, Esgoto, Atividades De Gestão De Resíduos E Descontaminação;585
+2008;Administração Pública, Defesa E Seguridade Social;16266
+2008;Agricultura, Pecuária, Produção Florestal, Pesca E Aquicultura;28
+2008;Alojamento E Alimentação;9804
+2008;Artes, Cultura, Esporte E Recreação;264
+2008;Atividades Administrativas E Serviços Complementares;13185
+2008;Atividades Financeiras, De Seguros E Serviços Relacionados;12893
+2008;Atividades Imobiliárias;339
+2008;Atividades Profissionais, Científicas E Técnicas;1421
+2008;"Comércio; Reparação De Veículos Automotores E Motocicletas";34079
+2008;Construção;4384
+2008;Educação;4656
+2008;Eletricidade E Gás;1
+2008;Indústrias De Transformação;24466
+2008;Indústrias Extrativas;0
+2008;Informação E Comunicação;5724
+2008;Outras Atividades De Serviços;2521
+2008;Saúde Humana E Serviços Sociais;2947
+2008;Serviços Domésticos;8
+2008;Transporte, Armazenagem E Correio;11042
+2008;Água, Esgoto, Atividades De Gestão De Resíduos E Descontaminação;695
+2009;Administração Pública, Defesa E Seguridade Social;18775
+2009;Agricultura, Pecuária, Produção Florestal, Pesca E Aquicultura;12
+2009;Alojamento E Alimentação;9543
+2009;Artes, Cultura, Esporte E Recreação;290
+2009;Atividades Administrativas E Serviços Complementares;11893
+2009;Atividades Financeiras, De Seguros E Serviços Relacionados;12730
+2009;Atividades Imobiliárias;439
+2009;Atividades Profissionais, Científicas E Técnicas;1962
+2009;"Comércio; Reparação De Veículos Automotores E Motocicletas";36876
+2009;Construção;4990
+2009;Educação;4944
+2009;Eletricidade E Gás;0
+2009;Indústrias De Transformação;22500
+2009;Indústrias Extrativas;0
+2009;Informação E Comunicação;6602
+2009;Organismos Internacionais E Outras Instituições Extraterritoriais;175
+2009;Outras Atividades De Serviços;2584
+2009;Saúde Humana E Serviços Sociais;3591
+2009;Serviços Domésticos;24
+2009;Transporte, Armazenagem E Correio;10891
+2009;Água, Esgoto, Atividades De Gestão De Resíduos E Descontaminação;616
+2010;Administração Pública, Defesa E Seguridade Social;20539
+2010;Agricultura, Pecuária, Produção Florestal, Pesca E Aquicultura;13
+2010;Alojamento E Alimentação;10744
+2010;Artes, Cultura, Esporte E Recreação;333
+2010;Atividades Administrativas E Serviços Complementares;14236
+2010;Atividades Financeiras, De Seguros E Serviços Relacionados;13805
+2010;Atividades Imobiliárias;516
+2010;Atividades Profissionais, Científicas E Técnicas;2433
+2010;"Comércio; Reparação De Veículos Automotores E Motocicletas";41011
+2010;Construção;5790
+2010;Educação;5054
+2010;Eletricidade E Gás;3
+2010;Indústrias De Transformação;24193
+2010;Indústrias Extrativas;0
+2010;Informação E Comunicação;7307
+2010;Outras Atividades De Serviços;2667
+2010;Saúde Humana E Serviços Sociais;3821
+2010;Serviços Domésticos;16
+2010;Transporte, Armazenagem E Correio;11819
+2010;Água, Esgoto, Atividades De Gestão De Resíduos E Descontaminação;673
+2011;Administração Pública, Defesa E Seguridade Social;19739
+2011;Agricultura, Pecuária, Produção Florestal, Pesca E Aquicultura;14
+2011;Alojamento E Alimentação;10936
+2011;Artes, Cultura, Esporte E Recreação;376
+2011;Atividades Administrativas E Serviços Complementares;14719
+2011;Atividades Financeiras, De Seguros E Serviços Relacionados;14341
+2011;Atividades Imobiliárias;532
+2011;Atividades Profissionais, Científicas E Técnicas;2648
+2011;"Comércio; Reparação De Veículos Automotores E Motocicletas";43925
+2011;Construção;6547
+2011;Educação;5426
+2011;Eletricidade E Gás;0
+2011;Indústrias De Transformação;24463
+2011;Indústrias Extrativas;0
+2011;Informação E Comunicação;8975
+2011;Organismos Internacionais E Outras Instituições Extraterritoriais;0
+2011;Outras Atividades De Serviços;3005
+2011;Saúde Humana E Serviços Sociais;3729
+2011;Serviços Domésticos;19
+2011;Transporte, Armazenagem E Correio;12357
+2011;Água, Esgoto, Atividades De Gestão De Resíduos E Descontaminação;685
+2012;Administração Pública, Defesa E Seguridade Social;19894
+2012;Agricultura, Pecuária, Produção Florestal, Pesca E Aquicultura;18
+2012;Alojamento E Alimentação;11328
+2012;Artes, Cultura, Esporte E Recreação;398
+2012;Atividades Administrativas E Serviços Complementares;15571
+2012;Atividades Financeiras, De Seguros E Serviços Relacionados;14422
+2012;Atividades Imobiliárias;506
+2012;Atividades Profissionais, Científicas E Técnicas;2515
+2012;"Comércio; Reparação De Veículos Automotores E Motocicletas";43318
+2012;Construção;6692
+2012;Educação;5377
+2012;Eletricidade E Gás;0
+2012;Indústrias De Transformação;23356
+2012;Indústrias Extrativas;362
+2012;Informação E Comunicação;7496
+2012;Organismos Internacionais E Outras Instituições Extraterritoriais;67
+2012;Outras Atividades De Serviços;2975
+2012;Saúde Humana E Serviços Sociais;4337
+2012;Serviços Domésticos;1
+2012;Transporte, Armazenagem E Correio;14352
+2012;Água, Esgoto, Atividades De Gestão De Resíduos E Descontaminação;863
+2013;Administração Pública, Defesa E Seguridade Social;21577
+2013;Agricultura, Pecuária, Produção Florestal, Pesca E Aquicultura;21
+2013;Alojamento E Alimentação;5661
+2013;Artes, Cultura, Esporte E Recreação;478
+2013;Atividades Administrativas E Serviços Complementares;17040
+2013;Atividades Financeiras, De Seguros E Serviços Relacionados;14267
+2013;Atividades Imobiliárias;640
+2013;Atividades Profissionais, Científicas E Técnicas;2528
+2013;"Comércio; Reparação De Veículos Automotores E Motocicletas";46196
+2013;Construção;6830
+2013;Educação;6404
+2013;Eletricidade E Gás;2
+2013;Indústrias De Transformação;20767
+2013;Indústrias Extrativas;369
+2013;Informação E Comunicação;9674
+2013;Organismos Internacionais E Outras Instituições Extraterritoriais;0
+2013;Outras Atividades De Serviços;3206
+2013;Saúde Humana E Serviços Sociais;3928
+2013;Serviços Domésticos;6
+2013;Transporte, Armazenagem E Correio;15044
+2013;Água, Esgoto, Atividades De Gestão De Resíduos E Descontaminação;974
+2014;Administração Pública, Defesa E Seguridade Social;22015
+2014;Agricultura, Pecuária, Produção Florestal, Pesca E Aquicultura;18
+2014;Alojamento E Alimentação;5857
+2014;Artes, Cultura, Esporte E Recreação;493
+2014;Atividades Administrativas E Serviços Complementares;18336
+2014;Atividades Financeiras, De Seguros E Serviços Relacionados;13988
+2014;Atividades Imobiliárias;492
+2014;Atividades Profissionais, Científicas E Técnicas;2670
+2014;"Comércio; Reparação De Veículos Automotores E Motocicletas";47278
+2014;Construção;6202
+2014;Educação;7089
+2014;Eletricidade E Gás;1
+2014;Indústrias De Transformação;19863
+2014;Indústrias Extrativas;430
+2014;Informação E Comunicação;9914
+2014;Organismos Internacionais E Outras Instituições Extraterritoriais;0
+2014;Outras Atividades De Serviços;2612
+2014;Saúde Humana E Serviços Sociais;4057
+2014;Serviços Domésticos;5
+2014;Transporte, Armazenagem E Correio;14904
+2014;Água, Esgoto, Atividades De Gestão De Resíduos E Descontaminação;977
+2015;Administração Pública, Defesa E Seguridade Social;18746
+2015;Agricultura, Pecuária, Produção Florestal, Pesca E Aquicultura;15
+2015;Alojamento E Alimentação;5833
+2015;Artes, Cultura, Esporte E Recreação;577
+2015;Atividades Administrativas E Serviços Complementares;16231
+2015;Atividades Financeiras, De Seguros E Serviços Relacionados;14263
+2015;Atividades Imobiliárias;480
+2015;Atividades Profissionais, Científicas E Técnicas;2791
+2015;"Comércio; Reparação De Veículos Automotores E Motocicletas";46994
+2015;Construção;7792
+2015;Educação;6919
+2015;Eletricidade E Gás;2
+2015;Indústrias De Transformação;17294
+2015;Indústrias Extrativas;362
+2015;Informação E Comunicação;8423
+2015;Organismos Internacionais E Outras Instituições Extraterritoriais;0
+2015;Outras Atividades De Serviços;2834
+2015;Saúde Humana E Serviços Sociais;5012
+2015;Serviços Domésticos;4
+2015;Transporte, Armazenagem E Correio;13835
+2015;Água, Esgoto, Atividades De Gestão De Resíduos E Descontaminação;962
+2016;Administração Pública, Defesa E Seguridade Social;17718
+2016;Agricultura, Pecuária, Produção Florestal, Pesca E Aquicultura;14
+2016;Alojamento E Alimentação;5655
+2016;Artes, Cultura, Esporte E Recreação;652
+2016;Atividades Administrativas E Serviços Complementares;15808
+2016;Atividades Financeiras, De Seguros E Serviços Relacionados;13810
+2016;Atividades Imobiliárias;471
+2016;Atividades Profissionais, Científicas E Técnicas;2699
+2016;"Comércio; Reparação De Veículos Automotores E Motocicletas";44822
+2016;Construção;6186
+2016;Educação;6560
+2016;Eletricidade E Gás;1
+2016;Indústrias De Transformação;15324
+2016;Indústrias Extrativas;8
+2016;Informação E Comunicação;7628
+2016;Outras Atividades De Serviços;3131
+2016;Saúde Humana E Serviços Sociais;5464
+2016;Serviços Domésticos;2
+2016;Transporte, Armazenagem E Correio;13294
+2016;Água, Esgoto, Atividades De Gestão De Resíduos E Descontaminação;939
+2017;Administração Pública, Defesa E Seguridade Social;16777
+2017;Agricultura, Pecuária, Produção Florestal, Pesca E Aquicultura;13
+2017;Alojamento E Alimentação;5754
+2017;Artes, Cultura, Esporte E Recreação;624
+2017;Atividades Administrativas E Serviços Complementares;15076
+2017;Atividades Financeiras, De Seguros E Serviços Relacionados;12293
+2017;Atividades Imobiliárias;480
+2017;Atividades Profissionais, Científicas E Técnicas;4443
+2017;"Comércio; Reparação De Veículos Automotores E Motocicletas";44305
+2017;Construção;4950
+2017;Educação;6155
+2017;Eletricidade E Gás;0
+2017;Indústrias De Transformação;14272
+2017;Indústrias Extrativas;2
+2017;Informação E Comunicação;7784
+2017;Outras Atividades De Serviços;2838
+2017;Saúde Humana E Serviços Sociais;5255
+2017;Serviços Domésticos;1
+2017;Transporte, Armazenagem E Correio;13188
+2017;Água, Esgoto, Atividades De Gestão De Resíduos E Descontaminação;982
+2018;Administração Pública, Defesa E Seguridade Social;16311
+2018;Agricultura, Pecuária, Produção Florestal, Pesca E Aquicultura;9
+2018;Alojamento E Alimentação;5754
+2018;Artes, Cultura, Esporte E Recreação;621
+2018;Atividades Administrativas E Serviços Complementares;16068
+2018;Atividades Financeiras, De Seguros E Serviços Relacionados;13497
+2018;Atividades Imobiliárias;532
+2018;Atividades Profissionais, Científicas E Técnicas;5805
+2018;"Comércio; Reparação De Veículos Automotores E Motocicletas";45281
+2018;Construção;5265
+2018;Educação;6319
+2018;Eletricidade E Gás;1
+2018;Indústrias De Transformação;13890
+2018;Indústrias Extrativas;2
+2018;Informação E Comunicação;7724
+2018;Outras Atividades De Serviços;3069
+2018;Saúde Humana E Serviços Sociais;5002
+2018;Serviços Domésticos;1
+2018;Transporte, Armazenagem E Correio;12332
+2018;Água, Esgoto, Atividades De Gestão De Resíduos E Descontaminação;1046
+2019;Administração Pública, Defesa E Seguridade Social;16477
+2019;Agricultura, Pecuária, Produção Florestal, Pesca E Aquicultura;12
+2019;Alojamento E Alimentação;6737
+2019;Artes, Cultura, Esporte E Recreação;706
+2019;Atividades Administrativas E Serviços Complementares;14455
+2019;Atividades Financeiras, De Seguros E Serviços Relacionados;14411
+2019;Atividades Imobiliárias;555
+2019;Atividades Profissionais, Científicas E Técnicas;7319
+2019;"Comércio; Reparação De Veículos Automotores E Motocicletas";43413
+2019;Construção;4851
+2019;Educação;6149
+2019;Eletricidade E Gás;1
+2019;Indústrias De Transformação;14496
+2019;Indústrias Extrativas;143
+2019;Informação E Comunicação;6933
+2019;Organismos Internacionais E Outras Instituições Extraterritoriais;0
+2019;Outras Atividades De Serviços;2894
+2019;Saúde Humana E Serviços Sociais;4763
+2019;Serviços Domésticos;0
+2019;Transporte, Armazenagem E Correio;13472
+2019;Água, Esgoto, Atividades De Gestão De Resíduos E Descontaminação;1061
+2020;Administração Pública, Defesa E Seguridade Social;16318
+2020;Agricultura, Pecuária, Produção Florestal, Pesca E Aquicultura;9
+2020;Alojamento E Alimentação;5531
+2020;Artes, Cultura, Esporte E Recreação;605
+2020;Atividades Administrativas E Serviços Complementares;18587
+2020;Atividades Financeiras, De Seguros E Serviços Relacionados;13342
+2020;Atividades Imobiliárias;545
+2020;Atividades Profissionais, Científicas E Técnicas;10072
+2020;"Comércio; Reparação De Veículos Automotores E Motocicletas";42301
+2020;Construção;5350
+2020;Educação;5864
+2020;Eletricidade E Gás;0
+2020;Indústrias De Transformação;13988
+2020;Indústrias Extrativas;4
+2020;Informação E Comunicação;6518
+2020;Outras Atividades De Serviços;2720
+2020;Saúde Humana E Serviços Sociais;4680
+2020;Serviços Domésticos;0
+2020;Transporte, Armazenagem E Correio;13067
+2020;Água, Esgoto, Atividades De Gestão De Resíduos E Descontaminação;958
+2021;Administração Pública, Defesa E Seguridade Social;16444
+2021;Agricultura, Pecuária, Produção Florestal, Pesca E Aquicultura;11
+2021;Alojamento E Alimentação;5612
+2021;Artes, Cultura, Esporte E Recreação;623
+2021;Atividades Administrativas E Serviços Complementares;23593
+2021;Atividades Financeiras, De Seguros E Serviços Relacionados;13279
+2021;Atividades Imobiliárias;535
+2021;Atividades Profissionais, Científicas E Técnicas;14674
+2021;"Comércio; Reparação De Veículos Automotores E Motocicletas";46176
+2021;Construção;6500
+2021;Educação;5982
+2021;Eletricidade E Gás;5
+2021;Indústrias De Transformação;15316
+2021;Indústrias Extrativas;4
+2021;Informação E Comunicação;7421
+2021;Outras Atividades De Serviços;2548
+2021;Saúde Humana E Serviços Sociais;5133
+2021;Serviços Domésticos;0
+2021;Transporte, Armazenagem E Correio;17785
+2021;Água, Esgoto, Atividades De Gestão De Resíduos E Descontaminação;888
+2022;Administração Pública, Defesa E Seguridade Social;17075
+2022;Agricultura, Pecuária, Produção Florestal, Pesca E Aquicultura;77
+2022;Alojamento E Alimentação;7164
+2022;Artes, Cultura, Esporte E Recreação;765
+2022;Atividades Administrativas E Serviços Complementares;25817
+2022;Atividades Financeiras, De Seguros E Serviços Relacionados;18325
+2022;Atividades Imobiliárias;575
+2022;Atividades Profissionais, Científicas E Técnicas;11145
+2022;"Comércio; Reparação De Veículos Automotores E Motocicletas";47831
+2022;Construção;7438
+2022;Educação;7213
+2022;Eletricidade E Gás;2
+2022;Indústrias De Transformação;16523
+2022;Indústrias Extrativas;4
+2022;Informação E Comunicação;7667
+2022;Outras Atividades De Serviços;2372
+2022;Saúde Humana E Serviços Sociais;6860
+2022;Serviços Domésticos;0
+2022;Transporte, Armazenagem E Correio;20575
+2022;Água, Esgoto, Atividades De Gestão De Resíduos E Descontaminação;1026
+2023;Administração Pública, Defesa E Seguridade Social;18749
+2023;Agricultura, Pecuária, Produção Florestal, Pesca E Aquicultura;52
+2023;Alojamento E Alimentação;7427
+2023;Artes, Cultura, Esporte E Recreação;807
+2023;Atividades Administrativas E Serviços Complementares;23950
+2023;Atividades Financeiras, De Seguros E Serviços Relacionados;19172
+2023;Atividades Imobiliárias;580
+2023;Atividades Profissionais, Científicas E Técnicas;10298
+2023;"Comércio; Reparação De Veículos Automotores E Motocicletas";50130
+2023;Construção;8095
+2023;Educação;11867
+2023;Eletricidade E Gás;0
+2023;Indústrias De Transformação;16405
+2023;Indústrias Extrativas;3
+2023;Informação E Comunicação;8201
+2023;Outras Atividades De Serviços;2563
+2023;Saúde Humana E Serviços Sociais;8846
+2023;Serviços Domésticos;0
+2023;Transporte, Armazenagem E Correio;27439
+2023;Água, Esgoto, Atividades De Gestão De Resíduos E Descontaminação;979

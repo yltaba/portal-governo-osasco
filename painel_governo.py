@@ -18,23 +18,8 @@ caged = pd.read_csv(
 )
 
 rais = pd.read_csv(
-    "data/rais_estab.csv",
-    sep=";",
-    dtype={
-        "ano": int,
-        "sigla_uf": str,
-        "id_municipio": int,
-        "quantidade_vinculos_ativos": float,
-        "quantidade_vinculos_clt": float,
-        "quantidade_vinculos_estatutarios": float,
-        "tamanho_estabelecimento": int,
-        "cnae_1": str,
-        "cnae_2": str,
-        "cnae_2_subclasse": str,
-        "descricao_secao_cnae_2": str,
-        "descricao_secao_cnae_1": str,
-        "descricao_secao_cnae": str,
-    },
+    "data/rais_anual.csv",
+    sep=";"
 )
 
 
