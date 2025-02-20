@@ -1,0 +1,121 @@
+nivel_territorial_codigo;nivel_territorial;unidade_de_medida_codigo;unidade_de_medida;pib_corrente;municipio_codigo;municipio;ano_codigo;ano;variavel_codigo;variavel;ipca_normalizado;pib_deflacionado;variavel_dash
+6;Município;40;Mil Reais;12418898.0;3534401;Osasco (SP);2002;2002;37;Produto Interno Bruto a preços correntes;0.3332630527715898;37264550.92071549;Total
+6;Município;40;Mil Reais;2464449.0;3534401;Osasco (SP);2002;2002;543;Impostos, líquidos de subsídios, sobre produtos a preços correntes;0.3332630527715898;7394906.154475732;Impostos
+6;Município;40;Mil Reais;143.0;3534401;Osasco (SP);2002;2002;513;Valor adicionado bruto a preços correntes da agropecuária;0.3332630527715898;429.0904701578445;Agropecuária
+6;Município;40;Mil Reais;1191516.0;3534401;Osasco (SP);2002;2002;517;Valor adicionado bruto a preços correntes da indústria;0.3332630527715898;3575301.822661498;Indústria
+6;Município;40;Mil Reais;8080029.0;3534401;Osasco (SP);2002;2002;6575;Valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social;0.3332630527715898;24245198.898594532;Serviços
+6;Município;40;Mil Reais;682761.0;3534401;Osasco (SP);2002;2002;525;Valor adicionado bruto a preços correntes da administração, defesa, educação e saúde públicas e seguridade social;0.3332630527715898;2048714.9545135668;Administração
+6;Município;40;Mil Reais;14144164.0;3534401;Osasco (SP);2003;2003;37;Produto Interno Bruto a preços correntes;0.36425651667934766;38830229.116946734;Total
+6;Município;40;Mil Reais;2914547.0;3534401;Osasco (SP);2003;2003;543;Impostos, líquidos de subsídios, sobre produtos a preços correntes;0.36425651667934766;8001358.566127327;Impostos
+6;Município;40;Mil Reais;164.0;3534401;Osasco (SP);2003;2003;513;Valor adicionado bruto a preços correntes da agropecuária;0.36425651667934766;450.2321646708328;Agropecuária
+6;Município;40;Mil Reais;1391934.0;3534401;Osasco (SP);2003;2003;517;Valor adicionado bruto a preços correntes da indústria;0.36425651667934766;3821301.572554457;Indústria
+6;Município;40;Mil Reais;9079456.0;3534401;Osasco (SP);2003;2003;6575;Valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social;0.36425651667934766;24925994.688497443;Serviços
+6;Município;40;Mil Reais;758063.0;3534401;Osasco (SP);2003;2003;525;Valor adicionado bruto a preços correntes da administração, defesa, educação e saúde públicas e seguridade social;0.36425651667934766;2081124.0576028384;Administração
+6;Município;40;Mil Reais;16232642.0;3534401;Osasco (SP);2004;2004;37;Produto Interno Bruto a preços correntes;0.3919400119469781;41416138.96311245;Total
+6;Município;40;Mil Reais;3254631.0;3534401;Osasco (SP);2004;2004;543;Impostos, líquidos de subsídios, sobre produtos a preços correntes;0.3919400119469781;8303900.85419574;Impostos
+6;Município;40;Mil Reais;158.0;3534401;Osasco (SP);2004;2004;513;Valor adicionado bruto a preços correntes da agropecuária;0.3919400119469781;403.1229146907674;Agropecuária
+6;Município;40;Mil Reais;1710384.0;3534401;Osasco (SP);2004;2004;517;Valor adicionado bruto a preços correntes da indústria;0.3919400119469781;4363892.299496541;Indústria
+6;Município;40;Mil Reais;10437915.0;3534401;Osasco (SP);2004;2004;6575;Valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social;0.3919400119469781;26631409.60819292;Serviços
+6;Município;40;Mil Reais;829555.0;3534401;Osasco (SP);2004;2004;525;Valor adicionado bruto a preços correntes da administração, defesa, educação e saúde públicas e seguridade social;0.3919400119469781;2116535.629723415;Administração
+6;Município;40;Mil Reais;19508747.0;3534401;Osasco (SP);2005;2005;37;Produto Interno Bruto a preços correntes;0.4142413986267611;47095116.67513881;Total
+6;Município;40;Mil Reais;3464551.0;3534401;Osasco (SP);2005;2005;543;Impostos, líquidos de subsídios, sobre produtos a preços correntes;0.4142413986267611;8363603.955290867;Impostos
+6;Município;40;Mil Reais;165.0;3534401;Osasco (SP);2005;2005;513;Valor adicionado bruto a preços correntes da agropecuária;0.4142413986267611;398.31846973041905;Agropecuária
+6;Município;40;Mil Reais;2002769.0;3534401;Osasco (SP);2005;2005;517;Valor adicionado bruto a preços correntes da indústria;0.4142413986267611;4834787.171536495;Indústria
+6;Município;40;Mil Reais;13074422.0;3534401;Osasco (SP);2005;2005;6575;Valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social;0.4142413986267611;31562325.84030136;Serviços
+6;Município;40;Mil Reais;966840.0;3534401;Osasco (SP);2005;2005;525;Valor adicionado bruto a preços correntes da administração, defesa, educação e saúde públicas e seguridade social;0.4142413986267611;2334001.389540354;Administração
+6;Município;40;Mil Reais;20967398.0;3534401;Osasco (SP);2006;2006;37;Produto Interno Bruto a preços correntes;0.42724857854364146;49075407.27571614;Total
+6;Município;40;Mil Reais;3492161.0;3534401;Osasco (SP);2006;2006;543;Impostos, líquidos de subsídios, sobre produtos a preços correntes;0.42724857854364146;8173604.724218625;Impostos
+6;Município;40;Mil Reais;226.0;3534401;Osasco (SP);2006;2006;513;Valor adicionado bruto a preços correntes da agropecuária;0.42724857854364146;528.96606647672;Agropecuária
+6;Município;40;Mil Reais;1900291.0;3534401;Osasco (SP);2006;2006;517;Valor adicionado bruto a preços correntes da indústria;0.42724857854364146;4447740.9532350125;Indústria
+6;Município;40;Mil Reais;14514852.0;3534401;Osasco (SP);2006;2006;6575;Valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social;0.42724857854364146;33972850.300582975;Serviços
+6;Município;40;Mil Reais;1059869.0;3534401;Osasco (SP);2006;2006;525;Valor adicionado bruto a preços correntes da administração, defesa, educação e saúde públicas e seguridade social;0.42724857854364146;2480684.672170862;Administração
+6;Município;40;Mil Reais;24427545.0;3534401;Osasco (SP);2007;2007;37;Produto Interno Bruto a preços correntes;0.44630386514668785;54732990.02680906;Total
+6;Município;40;Mil Reais;4262621.0;3534401;Osasco (SP);2007;2007;543;Impostos, líquidos de subsídios, sobre produtos a preços correntes;0.44630386514668785;9550939.01908959;Impostos
+6;Município;40;Mil Reais;226.0;3534401;Osasco (SP);2007;2007;513;Valor adicionado bruto a preços correntes da agropecuária;0.44630386514668785;506.38145364418926;Agropecuária
+6;Município;40;Mil Reais;2041201.0;3534401;Osasco (SP);2007;2007;517;Valor adicionado bruto a preços correntes da indústria;0.44630386514668785;4573567.829911384;Indústria
+6;Município;40;Mil Reais;16822884.0;3534401;Osasco (SP);2007;2007;6575;Valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social;0.44630386514668785;37693789.621272445;Serviços
+6;Município;40;Mil Reais;1300613.0;3534401;Osasco (SP);2007;2007;525;Valor adicionado bruto a preços correntes da administração, defesa, educação e saúde públicas e seguridade social;0.44630386514668785;2914187.1750819907;Administração
+6;Município;40;Mil Reais;32426014.0;3534401;Osasco (SP);2008;2008;37;Produto Interno Bruto a preços correntes;0.4726357931903424;68606767.55165097;Total
+6;Município;40;Mil Reais;6919672.0;3534401;Osasco (SP);2008;2008;543;Impostos, líquidos de subsídios, sobre produtos a preços correntes;0.4726357931903424;14640600.859472513;Impostos
+6;Município;40;Mil Reais;226.0;3534401;Osasco (SP);2008;2008;513;Valor adicionado bruto a preços correntes da agropecuária;0.4726357931903424;478.1694557546641;Agropecuária
+6;Município;40;Mil Reais;2281214.0;3534401;Osasco (SP);2008;2008;517;Valor adicionado bruto a preços correntes da indústria;0.4726357931903424;4826579.012566019;Indústria
+6;Município;40;Mil Reais;21724052.0;3534401;Osasco (SP);2008;2008;6575;Valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social;0.4726357931903424;45963620.00719479;Serviços
+6;Município;40;Mil Reais;1500849.0;3534401;Osasco (SP);2008;2008;525;Valor adicionado bruto a preços correntes da administração, defesa, educação e saúde públicas e seguridade social;0.4726357931903424;3175487.3871678403;Administração
+6;Município;40;Mil Reais;36990810.0;3534401;Osasco (SP);2009;2009;37;Produto Interno Bruto a preços correntes;0.4930063958768461;75031095.55852573;Total
+6;Município;40;Mil Reais;7118718.0;3534401;Osasco (SP);2009;2009;543;Impostos, líquidos de subsídios, sobre produtos a preços correntes;0.4930063958768461;14439402.9358156;Impostos
+6;Município;40;Mil Reais;305.0;3534401;Osasco (SP);2009;2009;513;Valor adicionado bruto a preços correntes da agropecuária;0.4930063958768461;618.6532315823943;Agropecuária
+6;Município;40;Mil Reais;2271513.0;3534401;Osasco (SP);2009;2009;517;Valor adicionado bruto a preços correntes da indústria;0.4930063958768461;4607471.665676784;Indústria
+6;Município;40;Mil Reais;25893589.0;3534401;Osasco (SP);2009;2009;6575;Valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social;0.4930063958768461;52521811.51513553;Serviços
+6;Município;40;Mil Reais;1706686.0;3534401;Osasco (SP);2009;2009;525;Valor adicionado bruto a preços correntes da administração, defesa, educação e saúde públicas e seguridade social;0.4930063958768461;3461792.8170374758;Administração
+6;Município;40;Mil Reais;43499785.0;3534401;Osasco (SP);2010;2010;37;Produto Interno Bruto a preços correntes;0.5221430738731677;83310087.17079413;Total
+6;Município;40;Mil Reais;8577136.0;3534401;Osasco (SP);2010;2010;543;Impostos, líquidos de subsídios, sobre produtos a preços correntes;0.5221430738731677;16426792.634394778;Impostos
+6;Município;40;Mil Reais;407.0;3534401;Osasco (SP);2010;2010;513;Valor adicionado bruto a preços correntes da agropecuária;0.5221430738731677;779.479840613309;Agropecuária
+6;Município;40;Mil Reais;2955428.0;3534401;Osasco (SP);2010;2010;517;Valor adicionado bruto a preços correntes da indústria;0.5221430738731677;5660188.074653834;Indústria
+6;Município;40;Mil Reais;30259746.0;3534401;Osasco (SP);2010;2010;6575;Valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social;0.5221430738731677;57952977.86014549;Serviços
+6;Município;40;Mil Reais;1707068.0;3534401;Osasco (SP);2010;2010;525;Valor adicionado bruto a preços correntes da administração, defesa, educação e saúde públicas e seguridade social;0.5221430738731677;3269349.121759411;Administração
+6;Município;40;Mil Reais;47614554.0;3534401;Osasco (SP);2011;2011;37;Produto Interno Bruto a preços correntes;0.5560823736749235;85625001.3560665;Total
+6;Município;40;Mil Reais;9974583.0;3534401;Osasco (SP);2011;2011;543;Impostos, líquidos de subsídios, sobre produtos a preços correntes;0.5560823736749235;17937240.006515607;Impostos
+6;Município;40;Mil Reais;404.0;3534401;Osasco (SP);2011;2011;513;Valor adicionado bruto a preços correntes da agropecuária;0.5560823736749235;726.5110694484476;Agropecuária
+6;Município;40;Mil Reais;3077381.0;3534401;Osasco (SP);2011;2011;517;Valor adicionado bruto a preços correntes da indústria;0.5560823736749235;5534038.023292905;Indústria
+6;Município;40;Mil Reais;32650490.0;3534401;Osasco (SP);2011;2011;6575;Valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social;0.5560823736749235;58715203.97998972;Serviços
+6;Município;40;Mil Reais;1911697.0;3534401;Osasco (SP);2011;2011;525;Valor adicionado bruto a preços correntes da administração, defesa, educação e saúde públicas e seguridade social;0.5560823736749235;3437794.6334935375;Administração
+6;Município;40;Mil Reais;50059468.0;3534401;Osasco (SP);2012;2012;37;Produto Interno Bruto a preços correntes;0.5885575842975391;85054494.81166309;Total
+6;Município;40;Mil Reais;10532264.0;3534401;Osasco (SP);2012;2012;543;Impostos, líquidos de subsídios, sobre produtos a preços correntes;0.5885575842975391;17895044.225061797;Impostos
+6;Município;40;Mil Reais;472.0;3534401;Osasco (SP);2012;2012;513;Valor adicionado bruto a preços correntes da agropecuária;0.5885575842975391;801.9606111496227;Agropecuária
+6;Município;40;Mil Reais;2957274.0;3534401;Osasco (SP);2012;2012;517;Valor adicionado bruto a preços correntes da indústria;0.5885575842975391;5024612.84825612;Indústria
+6;Município;40;Mil Reais;34558577.0;3534401;Osasco (SP);2012;2012;6575;Valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social;0.5885575842975391;58717410.0241129;Serviços
+6;Município;40;Mil Reais;2010881.0;3534401;Osasco (SP);2012;2012;525;Valor adicionado bruto a preços correntes da administração, defesa, educação e saúde públicas e seguridade social;0.5885575842975391;3416625.7536211107;Administração
+6;Município;40;Mil Reais;54335845.0;3534401;Osasco (SP);2013;2013;37;Produto Interno Bruto a preços correntes;0.6233413375295236;87168685.4835397;Total
+6;Município;40;Mil Reais;12034551.0;3534401;Osasco (SP);2013;2013;543;Impostos, líquidos de subsídios, sobre produtos a preços correntes;0.6233413375295236;19306518.395998407;Impostos
+6;Município;40;Mil Reais;584.0;3534401;Osasco (SP);2013;2013;513;Valor adicionado bruto a preços correntes da agropecuária;0.6233413375295236;936.8863652049063;Agropecuária
+6;Município;40;Mil Reais;3218079.0;3534401;Osasco (SP);2013;2013;517;Valor adicionado bruto a preços correntes da indústria;0.6233413375295236;5162627.289815479;Indústria
+6;Município;40;Mil Reais;36801292.0;3534401;Osasco (SP);2013;2013;6575;Valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social;0.6233413375295236;59038747.76836369;Serviços
+6;Município;40;Mil Reais;2281339.0;3534401;Osasco (SP);2013;2013;525;Valor adicionado bruto a preços correntes da administração, defesa, educação e saúde públicas e seguridade social;0.6233413375295236;3659855.1429969105;Administração
+6;Município;40;Mil Reais;60834520.0;3534401;Osasco (SP);2014;2014;37;Produto Interno Bruto a preços correntes;0.6632975172651661;91715283.73998153;Total
+6;Município;40;Mil Reais;12510361.0;3534401;Osasco (SP);2014;2014;543;Impostos, líquidos de subsídios, sobre produtos a preços correntes;0.6632975172651661;18860859.078112215;Impostos
+6;Município;40;Mil Reais;627.0;3534401;Osasco (SP);2014;2014;513;Valor adicionado bruto a preços correntes da agropecuária;0.6632975172651661;945.2771700174246;Agropecuária
+6;Município;40;Mil Reais;3261690.0;3534401;Osasco (SP);2014;2014;517;Valor adicionado bruto a preços correntes da indústria;0.6632975172651661;4917386.112717916;Indústria
+6;Município;40;Mil Reais;42563423.0;3534401;Osasco (SP);2014;2014;6575;Valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social;0.6632975172651661;64169429.090421945;Serviços
+6;Município;40;Mil Reais;2498419.0;3534401;Osasco (SP);2014;2014;525;Valor adicionado bruto a preços correntes da administração, defesa, educação e saúde públicas e seguridade social;0.6632975172651661;3766664.1815594323;Administração
+6;Município;40;Mil Reais;65912985.0;3534401;Osasco (SP);2015;2015;37;Produto Interno Bruto a preços correntes;0.7340713623573594;89790977.25366972;Total
+6;Município;40;Mil Reais;13030758.0;3534401;Osasco (SP);2015;2015;543;Impostos, líquidos de subsídios, sobre produtos a preços correntes;0.7340713623573594;17751350.438401096;Impostos
+6;Município;40;Mil Reais;747.0;3534401;Osasco (SP);2015;2015;513;Valor adicionado bruto a preços correntes da agropecuária;0.7340713623573594;1017.6122354114486;Agropecuária
+6;Município;40;Mil Reais;3217638.0;3534401;Osasco (SP);2015;2015;517;Valor adicionado bruto a preços correntes da indústria;0.7340713623573594;4383276.837918103;Indústria
+6;Município;40;Mil Reais;46931359.0;3534401;Osasco (SP);2015;2015;6575;Valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social;0.7340713623573594;63932965.385391176;Serviços
+6;Município;40;Mil Reais;2732482.0;3534401;Osasco (SP);2015;2015;525;Valor adicionado bruto a preços correntes da administração, defesa, educação e saúde públicas e seguridade social;0.7340713623573594;3722365.6174585624;Administração
+6;Município;40;Mil Reais;75683470.0;3534401;Osasco (SP);2016;2016;37;Produto Interno Bruto a preços correntes;0.7802444510496372;96999690.15887971;Total
+6;Município;40;Mil Reais;15729561.0;3534401;Osasco (SP);2016;2016;543;Impostos, líquidos de subsídios, sobre produtos a preços correntes;0.7802444510496372;20159785.793849014;Impostos
+6;Município;40;Mil Reais;947.0;3534401;Osasco (SP);2016;2016;513;Valor adicionado bruto a preços correntes da agropecuária;0.7802444510496372;1213.7221850485857;Agropecuária
+6;Município;40;Mil Reais;3704862.0;3534401;Osasco (SP);2016;2016;517;Valor adicionado bruto a preços correntes da indústria;0.7802444510496372;4748334.954533763;Indústria
+6;Município;40;Mil Reais;53621250.0;3534401;Osasco (SP);2016;2016;6575;Valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social;0.7802444510496372;68723654.39813778;Serviços
+6;Município;40;Mil Reais;2626850.0;3534401;Osasco (SP);2016;2016;525;Valor adicionado bruto a preços correntes da administração, defesa, educação e saúde públicas e seguridade social;0.7802444510496372;3366701.2901741047;Administração
+6;Município;40;Mil Reais;77927043.0;3534401;Osasco (SP);2017;2017;37;Produto Interno Bruto a preços correntes;0.8032616623556016;97013273.07402594;Total
+6;Município;40;Mil Reais;16086544.0;3534401;Osasco (SP);2017;2017;543;Impostos, líquidos de subsídios, sobre produtos a preços correntes;0.8032616623556016;20026530.275110446;Impostos
+6;Município;40;Mil Reais;1009.0;3534401;Osasco (SP);2017;2017;513;Valor adicionado bruto a preços correntes da agropecuária;0.8032616623556016;1256.128665522342;Agropecuária
+6;Município;40;Mil Reais;3506091.0;3534401;Osasco (SP);2017;2017;517;Valor adicionado bruto a preços correntes da indústria;0.8032616623556016;4364818.0466104;Indústria
+6;Município;40;Mil Reais;55631570.0;3534401;Osasco (SP);2017;2017;6575;Valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social;0.8032616623556016;69257095.9217173;Serviços
+6;Município;40;Mil Reais;2701829.0;3534401;Osasco (SP);2017;2017;525;Valor adicionado bruto a preços correntes da administração, defesa, educação e saúde públicas e seguridade social;0.8032616623556016;3363572.701922264;Administração
+6;Município;40;Mil Reais;76607992.0;3534401;Osasco (SP);2018;2018;37;Produto Interno Bruto a preços correntes;0.8333839746939367;91924004.21202552;Total
+6;Município;40;Mil Reais;16864341.0;3534401;Osasco (SP);2018;2018;543;Impostos, líquidos de subsídios, sobre produtos a preços correntes;0.8333839746939367;20235979.466959983;Impostos
+6;Município;40;Mil Reais;957.0;3534401;Osasco (SP);2018;2018;513;Valor adicionado bruto a preços correntes da agropecuária;0.8333839746939367;1148.3302163945039;Agropecuária
+6;Município;40;Mil Reais;3408300.0;3534401;Osasco (SP);2018;2018;517;Valor adicionado bruto a preços correntes da indústria;0.8333839746939367;4089711.469736037;Indústria
+6;Município;40;Mil Reais;53613518.0;3534401;Osasco (SP);2018;2018;6575;Valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social;0.8333839746939367;64332312.14901842;Serviços
+6;Município;40;Mil Reais;2720876.0;3534401;Osasco (SP);2018;2018;525;Valor adicionado bruto a preços correntes da administração, defesa, educação e saúde públicas e seguridade social;0.8333839746939367;3264852.7960946835;Administração
+6;Município;40;Mil Reais;81908401.0;3534401;Osasco (SP);2019;2019;37;Produto Interno Bruto a preços correntes;0.8693028240032452;94223093.19415513;Total
+6;Município;40;Mil Reais;17255698.0;3534401;Osasco (SP);2019;2019;543;Impostos, líquidos de subsídios, sobre produtos a preços correntes;0.8693028240032452;19850042.49788976;Impostos
+6;Município;40;Mil Reais;983.0;3534401;Osasco (SP);2019;2019;513;Valor adicionado bruto a preços correntes da agropecuária;0.8693028240032452;1130.79121896;Agropecuária
+6;Município;40;Mil Reais;3573884.0;3534401;Osasco (SP);2019;2019;517;Valor adicionado bruto a preços correntes da indústria;0.8693028240032452;4111207.16661408;Indústria
+6;Município;40;Mil Reais;58268203.0;3534401;Osasco (SP);2019;2019;6575;Valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social;0.8693028240032452;67028659.50862536;Serviços
+6;Município;40;Mil Reais;2809633.0;3534401;Osasco (SP);2019;2019;525;Valor adicionado bruto a preços correntes da administração, defesa, educação e saúde públicas e seguridade social;0.8693028240032452;3232053.22980696;Administração
+6;Município;40;Mil Reais;76612072.0;3534401;Osasco (SP);2020;2020;37;Produto Interno Bruto a preços correntes;0.9085953116481919;84319246.4432;Total
+6;Município;40;Mil Reais;12952897.0;3534401;Osasco (SP);2020;2020;543;Impostos, líquidos de subsídios, sobre produtos a preços correntes;0.9085953116481919;14255958.4382;Impostos
+6;Município;40;Mil Reais;1263.0;3534401;Osasco (SP);2020;2020;513;Valor adicionado bruto a preços correntes da agropecuária;0.9085953116481919;1390.0578;Agropecuária
+6;Município;40;Mil Reais;3766703.0;3534401;Osasco (SP);2020;2020;517;Valor adicionado bruto a preços correntes da indústria;0.9085953116481919;4145633.3218;Indústria
+6;Município;40;Mil Reais;56803340.0;3534401;Osasco (SP);2020;2020;6575;Valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social;0.9085953116481919;62517756.004;Serviços
+6;Município;40;Mil Reais;3087868.0;3534401;Osasco (SP);2020;2020;525;Valor adicionado bruto a preços correntes da administração, defesa, educação e saúde públicas e seguridade social;0.9085953116481919;3398507.5208;Administração
+6;Município;40;Mil Reais;86111260.0;3534401;Osasco (SP);2021;2021;37;Produto Interno Bruto a preços correntes;1.0;86111260.0;Total
+6;Município;40;Mil Reais;19194386.0;3534401;Osasco (SP);2021;2021;543;Impostos, líquidos de subsídios, sobre produtos a preços correntes;1.0;19194386.0;Impostos
+6;Município;40;Mil Reais;1392.0;3534401;Osasco (SP);2021;2021;513;Valor adicionado bruto a preços correntes da agropecuária;1.0;1392.0;Agropecuária
+6;Município;40;Mil Reais;4963982.0;3534401;Osasco (SP);2021;2021;517;Valor adicionado bruto a preços correntes da indústria;1.0;4963982.0;Indústria
+6;Município;40;Mil Reais;58664576.0;3534401;Osasco (SP);2021;2021;6575;Valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social;1.0;58664576.0;Serviços
+6;Município;40;Mil Reais;3286923.0;3534401;Osasco (SP);2021;2021;525;Valor adicionado bruto a preços correntes da administração, defesa, educação e saúde públicas e seguridade social;1.0;3286923.0;Administração
