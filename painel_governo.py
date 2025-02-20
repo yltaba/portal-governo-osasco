@@ -226,28 +226,28 @@ app.layout = dbc.Container(
                 dcc.Graph(id="fig-caged-media-idade"),
             ]
         ),
-
+        html.Br(),
         html.Div(
             [
                 html.H4("Evolução do PIB de Osasco por categoria"),
                 dcc.Graph(id="fig-pib-categorias", figure=fig_pib_categorias),
             ]
         ),
-
+        html.Br(),
         html.Div(
             [
                 html.H4("Evolução do PIB per capita de Osasco"),
                 dcc.Graph(id="fig-pib-per-capita", figure=fig_pib_per_capita),
             ]
         ),
-
+        html.Br(),
         html.Div(
             [
                 html.H4("Evolução do PIB de Osasco no Estado de São Paulo"),
-                dcc.Graph(id="fig-pib-per-capita", figure=fig_pib_per_capita),
+                dcc.Graph(id="fig-pib-sp", figure=fig_pib_per_capita),
             ]
         ),
-
+        html.Br(),
     ]
 )
 
@@ -299,7 +299,7 @@ def atualizar_grafico_rais_anual(filtro_cnae):
         {"quantidade_vinculos_ativos": "sum"}
     )
 
-    fig = px.line(
+    fig = px.area(
         rais_anual_grp,
         x="ano",
         y="quantidade_vinculos_ativos",
