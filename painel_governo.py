@@ -244,7 +244,7 @@ app.layout = dbc.Container(
         html.Div(
             [
                 html.H4("Evolução do PIB de Osasco no Estado de São Paulo"),
-                dcc.Graph(id="fig-pib-sp", figure=fig_pib_per_capita),
+                dcc.Graph(id="fig-pib-sp", figure=fig_pib_sp),
             ]
         ),
         html.Br(),
