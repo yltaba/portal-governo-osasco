@@ -195,7 +195,6 @@ app.layout = dbc.Container(
                 dcc.Graph(id="fig-caged-saldo-idade"),
             ]
         ),
-
         html.Br(),
         html.Div(
             [
